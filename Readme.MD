@@ -1,5 +1,4 @@
 halo saya agya
 
-hari ini saya belajar git 
-dan juga belajar github
+gatau gamau eror
 ternyata git menyenangkan sekali tapi github susah
