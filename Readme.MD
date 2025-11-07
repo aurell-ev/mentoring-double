@@ -1,4 +1,4 @@
 halo saya aurell
 
-hari ini saya belajar git dan github
-ternyata git menyenangkan sekali
+hari ini saya belajar git 
+ternyata git menyusahkan sekali
