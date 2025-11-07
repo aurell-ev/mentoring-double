@@ -1,4 +1,8 @@
 halo saya agya
 
-gatau gamau eror
-ternyata git menyenangkan sekali tapi github susah
+di git kita udah belajar
+- inisialisasi repo
+- menambah file
+- commit perubahan
+- apa itu branch
+- merge branch
