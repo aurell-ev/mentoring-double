@@ -11,3 +11,4 @@ sekarang saya lanjut belajar tentang github
 - buat repo di github
 - push repo lokal ke github
 - nanti belajar clone
+- lanjut belajar pull
