@@ -6,3 +6,7 @@ di git kita udah belajar
 - commit perubahan
 - apa itu branch
 - merge branch
+
+sekarang saya lanjut belajar tentang github
+- buat repo di github
+- push repo lokal ke github
